@@ -1,4 +1,4 @@
 # Fashion MNIST
 CNN 0.9414
 
-Capsule Net 0.9069
+Capsule Net with dropout 0.9182
